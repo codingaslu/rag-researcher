@@ -145,4 +145,4 @@ By default, the researcher runs locally using the **DeepSeek R1 model** on **Oll
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at aymenMir1001@gmail.com.
+If you have any questions or suggestions, feel free to contact me at muhammedaslam179@gmail.com
