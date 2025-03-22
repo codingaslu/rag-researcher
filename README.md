@@ -1,6 +1,5 @@
 # 🚀 **Local RAG Researcher with DeepSeek R1 & Langgraph**
 
-### 👉 **[Learn How to Build a Local RAG Researcher – Step-by-Step Guide Inside!](https://dev.to/kaymen99/build-your-own-local-rag-researcher-with-deepseek-r1-11m) 🚀**
 
 I built a **local adaptive RAG research agent** using **LangGraph** and a local **DeepSeek R1 model** running on **Ollama**. This agent act like a deep researcher, designed to gather, analyze, and summarize information based on user instructions.  
 
