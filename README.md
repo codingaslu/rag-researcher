@@ -58,7 +58,7 @@ Ensure you have the following installed:
 #### Clone the Repository
 ```bash
 git clone https://github.com/codingaslu/rag-researcher
-cd local-rag-researcher-deepseek
+cd rag-researcher
 ```
 
 #### Create and Activate a Virtual Environment
